@@ -1,0 +1,21 @@
+# LinkedListDeleteMethod
+
+A Java project for testing single linked list operations, including:
+
+- Creating a single linked list
+- Inserting nodes at different positions
+- Deleting nodes
+- Tracking head, tail, and size
+
+### Project Structure
+
+- `Main.java` – Entry point (optional for testing)
+- `Node.java` – Node class for the linked list
+- `SingleLinkedList.java` – Core linked list implementation
+- `SingleLinkedListTest.java` – Test methods for linked list logic
+
+### How to Run
+
+1. Open in IntelliJ
+2. Run `Main.java`
+3. Observe console output for linked list behavior
